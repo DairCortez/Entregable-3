@@ -1,5 +1,5 @@
 #Entregable-3
-<h2> 1. TABLA DE REQUERIMIENTOS</h1>
+<h2> 1. TABLA DE REQUERIMIENTOS</h2>
 <center>
   <img src="h3/CAPTURA.PNG" alt="" class="img-fluid img-rounded">
  </center>
