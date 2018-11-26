@@ -13,3 +13,12 @@
 <h3>2.2. SALIDAS</h3>
 <p>- SEÑALES: Mediante una pantalla evidencia la cantidad de ferritina en la muestra analizada (porcentaje) y un diagnóstico inicial de anemia ferropénica.</p>
 <p>- INFORMACIÓN: Datos recopilados del análisis compresos en formato “.txt".</p>
+<h2>3. ESQUEMA DE FUNCIONES</h2>
+
+<h2>4. MATRIZ MORFOLÓGICA</h2>
+<center>
+  <img src="h3/c1.PNG" alt="" class="img-fluid img-rounded">
+ </center>
+ <center>
+  <img src="h3/c2.PNG" alt="" class="img-fluid img-rounded">
+ </center>
