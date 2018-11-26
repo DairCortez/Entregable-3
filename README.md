@@ -1,7 +1,7 @@
 #Entregable-3
 <h2> 1. TABLA DE REQUERIMIENTOS</h2>
 <center>
-  <img src="h3/CAPTURA.PNG" alt="" class="img-fluid img-rounded">
+  <img src="h3/Captura.PNG" alt="" class="img-fluid img-rounded">
  </center>
 
 <h2> 2. ENTRADAS Y SALIDAS </h2>
