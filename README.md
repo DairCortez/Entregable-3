@@ -29,5 +29,10 @@ Se requiere un mejor diagnóstico ya que el hemograma solo analiza la cantidad y
  </center>
  <h2>7. MATRIZ DE EVALUACIÓN</h2>
  <center>
-  <img src="h3/solu.PNG" alt="" class="img-fluid img-rounded">
+  <img src="h3/eva.PNG" alt="" class="img-fluid img-rounded">
  </center>
+  <h2>8. PROYECTO ÓPTIMO</h2>
+ <center>
+  <img src="h3/optimo.PNG" alt="" class="img-fluid img-rounded">
+ </center>
+
